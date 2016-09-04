@@ -1,0 +1,42 @@
+body{
+  background: #222326 !important;
+}
+
+.containerSlider {
+  margin: 0 auto;
+  padding: 40px;
+  width: 100%;
+}
+
+.slick-slide img {
+  border: 5px solid black;
+  display: block;
+  margin: auto;
+}
+
+.slick-next:before, .slick-prev:before {
+    font-size: 20px !important;
+    line-height: 1 !important;
+    opacity: 1 !important;
+    color: #84BD00 !important;
+}
+
+.textSlider{
+  color: #00558B;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.btn{
+  color: #fff !important;
+  background-color: #84BD00 !important;
+  border-color: #84BD00 !important;
+}
+
+.textHeader{
+  color: #88898C;
+
+}
+.textHeader:hover{
+  color: #FBFBFC;
+}
